@@ -1,3 +1,6 @@
 [submodule "Week-01"]
 	path = Week-01
 	url = https://github.com/durgesh261/Skill_Nexis-Week-1.git
+[submodule "Week-02"]
+	path = Week-02
+	url = https://github.com/durgesh261/Skill_Nexis-Week-2.git
