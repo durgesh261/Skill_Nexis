@@ -7,7 +7,7 @@
 [![Pandas](https://img.shields.io/badge/Pandas-Data_Wrangling-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/durgesh261/Skill_Nexis-Week-3)
 [![Excel](https://img.shields.io/badge/Excel-Financial_Modeling-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/durgesh261/Skill_Nexis-Week-1)
 
-Welcome to the **Skill Nexis Data Science & Analytics Internship** project repository. This centralized hub documents the core data engineering, relational database querying, statistical modeling, machine learning pipelines, and executive business intelligence dashboards developed during my industry internship as a **Data Science & Analytics Intern** at **Skill Nexis** (AICTE & MSME Reg. • Certificate ID: `SNX-00683-26`).
+Welcome to the **Skill Nexis Data Science & Analytics Internship** project repository. This centralized hub documents the core data engineering, relational database querying, statistical modeling, machine learning pipelines, and executive business intelligence dashboards developed during my industry internship as a **Data Science & Analytics Intern** at **Skill Nexis**.
 
 Each functional phase is maintained in its own dedicated, standalone GitHub repository and synchronized within this workspace using Git submodules.
 
@@ -150,6 +150,5 @@ git clone --recurse-submodules https://github.com/durgesh261/Skill_Nexis.git
 ## 👤 Author & Internship Details
 - **Intern**: Durgesh ([@durgesh261](https://github.com/durgesh261))
 - **Role**: Data Science & Analytics Intern
-- **Organization**: Skill Nexis (AICTE & MSME Reg.)
-- **Credential**: Certificate ID: `SNX-00683-26`
-- **Verification**: Complete Source Code, Multi-format Deliverables & Production Dashboards Verified.
+- **Organization**: Skill Nexis
+- **Deliverables**: Complete Source Code, Multi-format Reports & Production Dashboards Verified.
